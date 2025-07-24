@@ -55,8 +55,8 @@ The app is organized into three main layers:
 
 1. **Clone the repo:**
    ```sh
-   git clone <your-repo-url>
-   cd flutter_tflite_sample_app
+   git clone https://github.com/Abdulla-Khan/Flutter-and-TFLITE
+   cd Flutter-and-TFLITE
    ```
 2. **Install dependencies:**
    ```sh
@@ -93,16 +93,6 @@ assets/
   models/
     best_float16.tflite
 ```
-
----
-
-## 🤔 Extending the App
-
-- Add support for more object types or detection classes
-- Show detection confidence scores in the UI
-- Allow users to edit or resize boxes
-- Add loading indicators and better error handling
-- Write tests for Bloc and widgets
 
 ---
 
